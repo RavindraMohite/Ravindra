@@ -1,0 +1,22 @@
+{
+  "name": "ravindra",
+  "version": "1.0.0",
+  "description": "this repository consist of nodejs application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RavindraMohite/Ravindra.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RavindraMohite/Ravindra/issues"
+  },
+  "homepage": "https://github.com/RavindraMohite/Ravindra#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
